@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmployeeProjectTracker/1.0.0": {
+        "runtime": {
+          "EmployeeProjectTracker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeProjectTracker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

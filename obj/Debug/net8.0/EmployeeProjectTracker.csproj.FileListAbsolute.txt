@@ -1,0 +1,14 @@
+C:\Users\dpcav\source\MyProjects\EmployeeProjectTracker\EmployeeProjectTracker\bin\Debug\net8.0\EmployeeProjectTracker.exe
+C:\Users\dpcav\source\MyProjects\EmployeeProjectTracker\EmployeeProjectTracker\bin\Debug\net8.0\EmployeeProjectTracker.deps.json
+C:\Users\dpcav\source\MyProjects\EmployeeProjectTracker\EmployeeProjectTracker\bin\Debug\net8.0\EmployeeProjectTracker.runtimeconfig.json
+C:\Users\dpcav\source\MyProjects\EmployeeProjectTracker\EmployeeProjectTracker\bin\Debug\net8.0\EmployeeProjectTracker.dll
+C:\Users\dpcav\source\MyProjects\EmployeeProjectTracker\EmployeeProjectTracker\bin\Debug\net8.0\EmployeeProjectTracker.pdb
+C:\Users\dpcav\source\MyProjects\EmployeeProjectTracker\EmployeeProjectTracker\obj\Debug\net8.0\EmployeeProjectTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpcav\source\MyProjects\EmployeeProjectTracker\EmployeeProjectTracker\obj\Debug\net8.0\EmployeeProjectTracker.AssemblyInfoInputs.cache
+C:\Users\dpcav\source\MyProjects\EmployeeProjectTracker\EmployeeProjectTracker\obj\Debug\net8.0\EmployeeProjectTracker.AssemblyInfo.cs
+C:\Users\dpcav\source\MyProjects\EmployeeProjectTracker\EmployeeProjectTracker\obj\Debug\net8.0\EmployeeProjectTracker.csproj.CoreCompileInputs.cache
+C:\Users\dpcav\source\MyProjects\EmployeeProjectTracker\EmployeeProjectTracker\obj\Debug\net8.0\EmployeeProjectTracker.dll
+C:\Users\dpcav\source\MyProjects\EmployeeProjectTracker\EmployeeProjectTracker\obj\Debug\net8.0\refint\EmployeeProjectTracker.dll
+C:\Users\dpcav\source\MyProjects\EmployeeProjectTracker\EmployeeProjectTracker\obj\Debug\net8.0\EmployeeProjectTracker.pdb
+C:\Users\dpcav\source\MyProjects\EmployeeProjectTracker\EmployeeProjectTracker\obj\Debug\net8.0\EmployeeProjectTracker.genruntimeconfig.cache
+C:\Users\dpcav\source\MyProjects\EmployeeProjectTracker\EmployeeProjectTracker\obj\Debug\net8.0\ref\EmployeeProjectTracker.dll
